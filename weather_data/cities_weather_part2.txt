@@ -1,0 +1,7 @@
+San Diego, California, 51.5 F, 87.0%
+Dallas, TX, 92.4 F, 86.8%
+San Jose, California, 75.7 F, 55.2%
+Austin, Texas, 69.6 F, 47.8%
+Jacksonville, Florida, 90.5 F, 52.7%
+Fort Worth, TX, 72.3 F, 34.5%
+Columbus, OH, 97.1 F, 44.9%

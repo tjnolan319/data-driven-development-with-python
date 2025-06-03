@@ -1,0 +1,7 @@
+New York, New York, 95.2 F, 62.4%
+Los Angeles, California, 83.7 F, 89.2%
+Chicago, IL, 55.7 F, 71.2%
+Houston, TX, 86.0 F, 80.6%
+Phoenix, Arizona, 79.3 F, 78.4%
+Philadelphia, PA, 51.0 F, 51.7%
+San Antonio, Texas, 90.0 F, 50.0%
