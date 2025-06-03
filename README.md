@@ -1,3 +1,4 @@
+
 # 🌦️ Weather Data Analysis Tool
 
 This Python script allows users to analyze temperature and humidity data by U.S. state. It reads weather data from a directory of city-level files and maps them to state-level statistics including max, min, and average temperature and humidity. Users can input any combination of state names or abbreviations and receive a clean, formatted report.
@@ -13,7 +14,7 @@ This Python script allows users to analyze temperature and humidity data by U.S.
 │   ├── cities_weather_part2.txt
 │   ├── cities_weather_part3.txt
 │   └── cities_weather_part4.txt
-├── weather.py            # Main Python script (this file)
+├── weather.py                   # Main Python script
 ```
 
 ---
@@ -21,7 +22,7 @@ This Python script allows users to analyze temperature and humidity data by U.S.
 ## ⚙️ How It Works
 
 1. **Reads U.S. states and abbreviations** from `us_states.txt`
-2. **Processes weather files** in a specified folder (`weather_data/`)
+2. **Processes weather files** in the `weather_data/` folder
 3. **Calculates weather statistics** (max, min, avg for temp and humidity) by state
 4. **Accepts user input** for any number of states (abbreviated or full name)
 5. **Displays results** in a clean, tabular format in the console
@@ -66,12 +67,12 @@ States without data will be listed at the end as:
 ## 🚀 How to Run
 
 ```bash
-python weather_script.py
+python weather.py
 ```
 
 Make sure the working directory includes:
 - `us_states.txt`
-- A folder named `weather_data/` with properly formatted weather files
+- A folder named `weather_data/` with the 4 weather data files
 
 ---
 
