@@ -8,10 +8,12 @@ This Python script allows users to analyze temperature and humidity data by U.S.
 
 ```
 ├── us_states.txt                 # Contains state names and their abbreviations
-├── weather_data/                # Folder containing weather data files (e.g., city_weather.txt)
-│   ├── city1_weather.txt
-│   └── ...
-├── weather_script.py            # Main Python script (this file)
+├── weather_data/                # Folder containing city-level weather data
+│   ├── cities_weather_part1.txt
+│   ├── cities_weather_part2.txt
+│   ├── cities_weather_part3.txt
+│   └── cities_weather_part4.txt
+├── weather.py            # Main Python script (this file)
 ```
 
 ---
